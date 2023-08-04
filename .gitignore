@@ -52,3 +52,10 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+*.tsv
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/python-edgar.iml
+.idea/vcs.xml
+sql/edgar-idx.sqlite3
